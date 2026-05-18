@@ -1,6 +1,6 @@
 {
   "name": "hindsight-agent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Post-implementation code review of commits made by Claude Code. Distributed as a Claude Code plugin.",
   "type": "module",
   "main": "index.js",
@@ -12,6 +12,8 @@
     "dist/",
     ".claude-plugin/",
     "hooks/",
+    "bin/",
+    "scripts/",
     "README.md",
     "LICENSE"
   ],
